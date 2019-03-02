@@ -76,7 +76,7 @@ Specialized in **Computer network and communication**.
 - Knowledge :
   - Cpanel (WHM / VestaCP)
   - Nginx / Apache
-  - Linux (Centos 6x| 7x)
+  - Linux (Centos 6x, 7x)
   - Mysql
   - Web hosting
 
@@ -87,3 +87,8 @@ Specialized in **Computer network and communication**.
 |- English       |`***`   |
 |- Communication |`***`   |
 |- Teamwork      |`****`  |
+
+* * * 
+## Updated at 6:60 PM , March, 02, 2019
+
+* * *
