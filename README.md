@@ -63,3 +63,27 @@ Specialized in **Computer network and communication**.
 |:----------------|:------------------------------|:----------------------|:-----------------------------------------|
 | 07/2018 - now   |[Vietnix](https://vietnix.vn/) | System Administrator  | Administration of vps and network systems|
 
+## Skill
+
+* * *
+
+### Hard skill
+
+- Program Language :
+  - C/C++
+  - Python
+  - Java
+- Knowledge :
+  - Cpanel (WHM / VestaCP)
+  - Nginx / Apache
+  - Linux (Centos 6x| 7x)
+  - Mysql
+  - Web hosting
+
+### Soft Skill
+
+| Skill          |        |
+|:---------------|:-------|
+|- English       |`***`   |
+|- Communication |`***`   |
+|- Teamwork      |`****`  |
