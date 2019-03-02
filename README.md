@@ -10,7 +10,7 @@
 >
 >**Email**: ptdat653@gmail.com
 >
->**Facebook**: [mylinkfacebook](./https://www.facebook.com/ThanhDatPhan22)
+>**Facebook**: [mylinkfacebook](https://www.facebook.com/ThanhDatPhan22)
 
 ## Carrer objective : 
 
