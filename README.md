@@ -16,6 +16,8 @@
 
 ## Carrer objective : 
 
+* * *
+
 I am responsible and patient person in teamwork. I always listen form teammates, learn new experience during work. I had worked at Sysmte Administrator for 6 months ago. I am seeking to apply my system administator's abilities in your company.
 
 ## Education and qualifications :
