@@ -53,4 +53,5 @@ Specialized in **Computer network and communication**.
 
 ## Work Experience 
 | Time            | Company                       | Position in Company   | Role                             |
-|:----------------| [Vietnix](https://vietnix.vn/)| System Administrator  | Quản trị hệ thống vps and network|
+|:----------------|:------------------------------|:----------------------|:---------------------------------|
+| 07/2018 - now   |[Vietnix](https://vietnix.vn/) | System Administrator  | Quản trị hệ thống vps and network|
