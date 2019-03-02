@@ -1,4 +1,2 @@
-# myCV
-this is my CV update.
-
-test info input is that!
+title: Phan Thanh Dat
+description: System Administrator.
