@@ -1,8 +1,8 @@
 ## Personal details :
 
->**Name         :** Phan Thanh Dat.
+>**Name**         : Phan Thanh Dat.
 >
->**Birthday     :** May, 22, 1996.
+>**Birthday**     : May, 22, 1996.
 >
 >**My address   :** 103/15/4, street 18, ward 8, Go Vap district.
 >
