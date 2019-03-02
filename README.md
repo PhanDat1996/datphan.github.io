@@ -1,5 +1,7 @@
 ## Personal details :
 
+* * *
+
 >**Name**: Phan Thanh Dat.
 >
 >**Birthday**: May, 22, 1996.
@@ -17,6 +19,8 @@
 I am responsible and patient person in teamwork. I always listen form teammates, learn new experience during work. I had worked at Sysmte Administrator for 6 months ago. I am seeking to apply my system administator's abilities in your company.
 
 ## Education and qualifications :
+
+* * *
 
 Learned at university [HCMUS](https://www.hcmus.edu.vn/) in faculty [FIT](https://www.fit.hcmus.edu.vn/vn/)
 
@@ -53,6 +57,9 @@ Specialized in **Computer network and communication**.
 
 ## Work Experience
 
+* * *
+
 | Time            | Company                       | Position in Company   | Role                                     |
 |:----------------|:------------------------------|:----------------------|:-----------------------------------------|
 | 07/2018 - now   |[Vietnix](https://vietnix.vn/) | System Administrator  | Administration of vps and network systems|
+
