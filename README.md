@@ -1,17 +1,16 @@
 ## Personal details :
 
->|:-----------------|
->|**Name**          |: Phan Thanh Dat.
-
->|**Birthday**      |: May, 22, 1996.
+>**Name**: Phan Thanh Dat.
 >
->|**My address**    |: 103/15/4, street 18, ward 8, Go Vap district.
+>**Birthday**: May, 22, 1996.
 >
->|**Number phone**  |: 0772165626
+>**My address**: 103/15/4, street 18, ward 8, Go Vap district.
 >
->|**Email**         |: ptdat653@gmail.com
+>**Number phone**: 0772165626
 >
->|**Facebook**      |: [mylinkfacebook](./https://www.facebook.com/ThanhDatPhan22)
+>**Email**: ptdat653@gmail.com
+>
+>**Facebook**: [mylinkfacebook](./https://www.facebook.com/ThanhDatPhan22)
 
 ## Carrer objective : 
 
