@@ -51,7 +51,8 @@ Specialized in **Computer network and communication**.
 |                 |                                               |                     |
 | Fifth year (I)  | - Thematic Linux Operating System             | 07/2018 - 03/2019   |
 
-## Work Experience 
+## Work Experience
+
 | Time            | Company                       | Position in Company   | Role                                     |
 |:----------------|:------------------------------|:----------------------|:-----------------------------------------|
 | 07/2018 - now   |[Vietnix](https://vietnix.vn/) | System Administrator  | Administration of vps and network systems|
