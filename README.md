@@ -19,16 +19,22 @@ I am responsible and patient person in teamwork. I always listen form teammates,
 ## Education and qualifications :
 
 Learned at university [HCMUS](https://www.hcmus.edu.vn/) in faculty [FIT](https://www.fit.hcmus.edu.vn/vn/)
+
 Specialized in **Computer network and communication**.
 
 | Semester        | Content                                       | time                |
 |:----------------|:----------------------------------------------|:--------------------|
 | First year (I)  | - Learning basic code in C/C++ language       | 09/2014 - 03/2015   |
+|:----------------|:----------------------------------------------|:--------------------|
 | First year (II) | - Learning OOP, data structures and algorithms| 03/2015 - 07/2015   |
+|:----------------|:----------------------------------------------|:--------------------|
 | Second year (I) | - Learning network basic, operating system    | 09/2015 - 03/2016   |
+|:----------------|:----------------------------------------------|:--------------------|
 | Second year (II)| - Learning network and system in high level   | 03/2016 - 07/2016   |
+|:----------------|:----------------------------------------------|:--------------------|
 | Third year (I)  | - Learning CISCO, progarming network in kernel| 09/2016 - 03/2017   |
 |                 | - Learning Encryption Data, basic security    |                     |
 |                 | - Learning planning infrastructure facilities |                     |
 |                 | networks and system storages.                 |                     |
+|:----------------|:----------------------------------------------|:--------------------|
 | Third year (II) | -
